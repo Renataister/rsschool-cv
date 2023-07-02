@@ -47,4 +47,7 @@ _(Awarded a CIS Scholarship - Confucius Institute Scholarship)_
 **2019** – TEFL/TESOL (150h) Course, Global Language Training, England
 **2019** - Teaching Russian as a foreign language (diploma), Moscow State University, Moscow
 
+######English proficiency - C1 
+
+
 
