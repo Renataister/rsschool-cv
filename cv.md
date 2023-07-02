@@ -10,7 +10,19 @@ _A certisfied TEFL/TESOL/RFL teacher with a Master's Degree in TCSL and over 5 y
 Punctuality
 Sociability
 Ability to work in a team
-Creativity 
+Creativity
 
+#####Code example:
+```
+const assert = require("chai").assert;
 
+describe("Multiply", () => {
+  it("fixed tests", () => {
+    assert.strictEqual(multiply(1,1), 1);
+    assert.strictEqual(multiply(2,1), 2);
+    assert.strictEqual(multiply(2,2), 4);
+    assert.strictEqual(multiply(3,5), 15);   
+  });
+});
+```
   
