@@ -7,5 +7,8 @@ _A certisfied TEFL/TESOL/RFL teacher with a Master's Degree in TCSL and over 5 y
 * renataister (telegram)
 
 #####Skills:
-   
+Punctuality
+Sociability
+Ability to work in a team
+Creativity 
   
