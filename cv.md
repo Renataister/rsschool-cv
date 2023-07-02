@@ -41,5 +41,10 @@ Bishkek Humanitarian University named after Karasaev
 **2017 -2020 (Master)**
 Teaching Chinese as a Foreign Language, Zhejiang Normal University, Jinhua
 _(Awarded a CIS Scholarship - Confucius Institute Scholarship)_
+  ###### Courses:
+**2015** - Chinese Language Course (CIS), Sichuan Normal University, Chengdu
+**2016** – Chinese Language Course (CIS), Zhejiang Normal University, Jinhua
+**2019** – TEFL/TESOL (150h) Course, Global Language Training, England
+**2019** - Teaching Russian as a foreign language (diploma), Moscow State University, Moscow
 
 
