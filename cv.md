@@ -30,5 +30,7 @@ describe("Multiply", () => {
 * **2018.10 - 2019.01** | _Teaching Chinese to Russian-speakers,_ Zhejiang Normal University, 浙江师范大学
 * **2017.09 - 2020.01** | _ESL Teacher_
 East Pearl International Kindergarten, Jinhua
-
+* **2018.09 - 2019.08** | _ESL Teacher_
+  HAIMEIYU English Centre, Jinhua
+* **2021.03 - ...**     | _Teaching Chinese and English_ ABCDeluxe language centre, Naro-Fominsk
   
