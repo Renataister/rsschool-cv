@@ -33,7 +33,7 @@ describe("Multiply", () => {
 * **2017.09 - 2020.01** | _ESL Teacher_
 East Pearl International Kindergarten, Jinhua
 * **2018.09 - 2019.08** | _ESL Teacher_
-  HAIMEIYU English Centre, Jinhua
+ HAIMEIYU English Centre, Jinhua
 * **2021.03 - ...**     | _Teaching Chinese and English_ ABCDeluxe language centre, Naro-Fominsk
   
 #####Education
