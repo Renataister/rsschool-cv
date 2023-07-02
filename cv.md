@@ -34,3 +34,12 @@ East Pearl International Kindergarten, Jinhua
   HAIMEIYU English Centre, Jinhua
 * **2021.03 - ...**     | _Teaching Chinese and English_ ABCDeluxe language centre, Naro-Fominsk
   
+#####Education
+**2012 -2016 (Bachelor)**
+Economy,
+Bishkek Humanitarian University named after Karasaev
+**2017 -2020 (Master)**
+Teaching Chinese as a Foreign Language, Zhejiang Normal University, Jinhua
+_(Awarded a CIS Scholarship - Confucius Institute Scholarship)_
+
+
