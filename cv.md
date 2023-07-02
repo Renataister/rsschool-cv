@@ -1,3 +1,5 @@
+![](https://psv4.userapi.com/c235131/u13963427/docs/d5/29019a9aaa2f/IMG_999_3_Zagran_pasport_OVIR.jpg?extra=bp-KchguyRptIbEUCkvGNReogveB7jHuvEiLVzwI5qz9BOkFAxVKNxXLpnhOdm_O15yU8nA1juMHqag1oQZ9jpwV1PK-HlzyxsbguJ9dnymuyVi9sMdO3Ksa6lbJtDYai_u2QXQfWL5uM07n5OAU1JQB)
+
 #About myself
 ##Zainieva Renata
 _A certisfied TEFL/TESOL/RFL teacher with a Master's Degree in TCSL and over 5 years of teaching experience in kindergartens and language centres._
@@ -47,7 +49,10 @@ _(Awarded a CIS Scholarship - Confucius Institute Scholarship)_
 **2019** – TEFL/TESOL (150h) Course, Global Language Training, England
 **2019** - Teaching Russian as a foreign language (diploma), Moscow State University, Moscow
 
-######English proficiency - C1 
+######English proficiency - C1
+
+
+
 
 
 
